@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Milan!
 - 💻 I’m interested in Full Stack Development, Site Reliability and Natural Language Processing to name a few
-- 📚 I’m currently learning Design and Analysis of Algorithms,Natural Language Processing and Performance of Computer Systems and Networks 
-- 👀 I’m on the lookout for a few open-source projects
+- 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas 
+- 👀 I’m on the lookout for a few open-source projects and fun exciting stuff to work on, so hmu!
 
 
 <!---
