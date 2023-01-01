@@ -12,8 +12,14 @@
 </div>
 
 <div align="center"><h4>👋 Hi, I’m Milan!</h1></div>
+---
+
+### :woman_technologist: About Me :
 - 💻 Former Kafka SRE Intern, Linkedin <br>
-- 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas 
+- 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas
+- 🍜 Huge foodie
+- 🪴 Plant mom
+- ⛰️ Outdoorsy
 
 
 
