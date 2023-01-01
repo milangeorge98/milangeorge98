@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me :
 - 💻 Former Kafka SRE Intern, Linkedin <br>
-- 📚 spring 23' Computer Science Grad at The University of Texas at Dallas
+- 📚 Spring 23' Computer Science Grad at The University of Texas at Dallas
 - 🍜 Huge foodie
 - 🪴 Plant mom
 - ⛰️ Outdoorsy
