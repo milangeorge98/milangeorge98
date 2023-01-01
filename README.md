@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="">
+</div>
+
 - 👋 Hi, I’m Milan!
 - 💻 Former Kafka SRE Intern, Linkedin
 - 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas 
