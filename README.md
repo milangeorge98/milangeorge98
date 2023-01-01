@@ -2,6 +2,12 @@
 <img src="https://drive.google.com/file/d/1haBtUF4Wx03SRJ_rpZxRaWUbn71EoSUV/view?usp=share_link"/>
 </div>
 
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/milangeorge98/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 - 👋 Hi, I’m Milan!
 - 💻 Former Kafka SRE Intern, Linkedin
 - 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas 
