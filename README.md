@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me :
 - 💻 Former Kafka SRE Intern, Linkedin <br>
-- 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas
+- 📚 spring 23' Computer Science Grad at The University of Texas at Dallas
 - 🍜 Huge foodie
 - 🪴 Plant mom
 - ⛰️ Outdoorsy
