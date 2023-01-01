@@ -11,8 +11,8 @@
   </a>
 </div>
 
-- 👋 Hi, I’m Milan!
-- 💻 Former Kafka SRE Intern, Linkedin
+<div align="center"><h4>👋 Hi, I’m Milan!</h1></div>
+- 💻 Former Kafka SRE Intern, Linkedin <br>
 - 📚 I’m currently pursuing my Masters in Computer Science at The University of Texas at Dallas 
 
 
