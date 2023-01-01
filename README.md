@@ -12,7 +12,6 @@
 </div>
 
 <div align="center"><h4>👋 Hi, I’m Milan!</h1></div>
----
 
 ### :woman_technologist: About Me :
 - 💻 Former Kafka SRE Intern, Linkedin <br>
